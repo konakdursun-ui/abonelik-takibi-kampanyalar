@@ -97,7 +97,7 @@ def discover(source):
             continue
         title = meta(html, "og:title") or meta(html, "twitter:title") or clean(anchor_text)
         description = meta(html, "og:description") or meta(html, "description")
-        searchable = (title + " " + description + " " + clean(html[:120000])).lower()
+        searchable = (title + " " + description + " " + clean(anchor_text)).lower()
         matched = [service for service in SERVICES if service in searchable]
         if not matched or not any(word in searchable for word in OFFER_WORDS):
             continue

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T13:03:59Z",
+  "updatedAt": "2026-06-19T13:07:11Z",
   "campaigns": [
     {
       "id": "4f0189ce385b0e11",
@@ -170,20 +170,6 @@
       "status": "active"
     },
     {
-      "id": "70b3501ea7b0dae9",
-      "title": "Maximum Kart’ınız ile ETS",
-      "provider": "Maximum",
-      "services": [
-        "max"
-      ],
-      "price": "Koşulları incele",
-      "description": "",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/etsdeki-secili-otellerde-yaz-donemi-rezervasyonlarinizda-indirim-firsati",
-      "endDate": null,
-      "status": "active"
-    },
-    {
       "id": "76528e83eb3182b7",
       "title": "Maximum Kart’ınızla Market alışverişlerinize MaxiPuan Hediye! | Maximum",
       "provider": "Maximum",
@@ -310,20 +296,6 @@
       "status": "active"
     },
     {
-      "id": "9991cc6b23b10118",
-      "title": "Vergi Ödemeleri | Maximum",
-      "provider": "Maximum",
-      "services": [
-        "max"
-      ],
-      "price": "Koşulları incele",
-      "description": "Gelir, motorlu taşıt ve emlak vergisi ödemelerinizi Maximum Kart ile kolayca yapın. Taksitli ödeme ve MaxiPuan fırsatlarıyla avantajlı bir deneyim sizi bekliyor!",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/vergi-odemeleri",
-      "endDate": null,
-      "status": "active"
-    },
-    {
       "id": "e76ecd16ea574b02",
       "title": "Yeme-İçme, Restaurant Kampanyaları | Maximum",
       "provider": "Maximum",
@@ -412,8 +384,7 @@
       "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone’dan! | Vodafone",
       "provider": "Vodafone",
       "services": [
-        "amazon prime",
-        "max"
+        "amazon prime"
       ],
       "price": "Koşulları incele",
       "description": "3 ay Amazon Prime üyeliği Vodafone&#039;dan kampanyasının detayları için tıklayınız....",
