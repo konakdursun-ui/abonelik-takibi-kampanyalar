@@ -1,0 +1,440 @@
+{
+  "updatedAt": "2026-06-19T13:03:59Z",
+  "campaigns": [
+    {
+      "id": "4f0189ce385b0e11",
+      "title": "Akaryakıt Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart ile akaryakıt harcamalarınızda MaxiPuan kazanın, Shell ve Recharge noktalarında indirim fırsatlarını yakalayın.",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/akaryakit-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "41e31b8fca429b22",
+      "title": "Araç Kiralama Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart ile araç kiralama harcamalarınızda MaxiPuan kazanın. Tatil ve iş seyahatlerinizi avantajlı fiyatlarla planlayın, kampanyaları hemen keşfedin!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/arac-kiralama-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "40717f30fc0b0a6d",
+      "title": "Bankamatik Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Bankamatik Kart ile market, akaryakıt ve elektronik alışverişlerinde MaxiPuan kazanın. Güncel kampanyaları keşfedin, avantajları hemen yakalayın!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/bankamatik-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "0efcd3f67ce60bf9",
+      "title": "Beyaz Eşya Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Beyaz eşyada avantajlı kampanyalar Maximum Kart’ta! Anlaşmalı markalarda indirim ve MaxiPuan fırsatlarını keşfedin, alışverişinizi kazanca dönüştürün.",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/beyaz-esya-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "9b9b1917f09af2df",
+      "title": "Bireysel Kart Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Kredi kartı kampanyaları ile harcamalarınızdan tasarruf etmek için Maximum dünyasına katılın. Maximum kredi kartı kampanya fırsatlarından yararlanın.",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "c3db8a758e08117d",
+      "title": "Bireysel Kart Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Kredi kartı kampanyaları ile harcamalarınızdan tasarruf etmek için Maximum dünyasına katılın. Maximum kredi kartı kampanya fırsatlarından yararlanın.",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/bireysel",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "9cc92842c37ae027",
+      "title": "Diğer Kampanyalar | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart sahiplerine özel farklı sektörlerde geçerli kampanyaları keşfedin. Alışverişlerinizde MaxiPuan kazanın, avantajlarla dolu Maximum Dünyası’nı deneyimleyin!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/diger-kampanyalar",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "9ae9626a12f2baa0",
+      "title": "Elektronik Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/elektronik-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "e5f72d8ae07e1b80",
+      "title": "Etstur Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart sahiplerine özel tatil fırsatları! Seçili otellerde taksit, MaxiPuan ve ek indirim avantajları sizi bekliyor. Hemen planlayın!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/ets-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "b0753e8197b63e51",
+      "title": "Eğitim ve Kırtasiye Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Eğitim ve kırtasiye alışverişlerinizi Maximum Kart ile yapın, avantajlı kampanyalar ve MaxiPuan fırsatlarını yakalayın. Okul alışverişlerinde tasarruf sizinle!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/egitim-kirtasiye-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "29757c1aabdfec34",
+      "title": "Giyim-Aksesuar Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart ile giyim ve aksesuar alışverişlerinde MaxiPuan kazanın, özel kampanyaları hemen keşfedin.",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/giyim-aksesuar-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "ad01318090941da0",
+      "title": "Market Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Market ve gıda alışverişlerinizde Maximum Kart ile indirim ve MaxiPuan kazanın. Anlaşmalı süpermarket fırsatlarını hemen keşfedin!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/market-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "70b3501ea7b0dae9",
+      "title": "Maximum Kart’ınız ile ETS",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/etsdeki-secili-otellerde-yaz-donemi-rezervasyonlarinizda-indirim-firsati",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "76528e83eb3182b7",
+      "title": "Maximum Kart’ınızla Market alışverişlerinize MaxiPuan Hediye! | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/maximum-kartinizla-market-alisverislerinize-maxipuan-hediye",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "1bd11460a34deecc",
+      "title": "Maximum Pati Kart Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Evcil dostlarınız için Maximum Pati Kart ile veteriner ve petshop alışverişlerinde indirim ve MaxiPuan kazanın. Kampanya detaylarını şimdi keşfedin!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/maximum-pati-kart-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "ba5cccefabaea2e2",
+      "title": "Maximum’dan Ets Tur Erken Rezervasyona Ek %5 İndirim Fırsatı | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Ets Tur kampanyası sizi bekliyor. Seçili otellerde, Maximum ile yapacağınız erken rezervasyonlarda ek %5 indirim fırsatını hemen değerlendirin!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/maximumdan-etsnin-erken-rezervasyon-indirimlerine-ek-yuzde5-indirim",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "48ea39d4984edcd3",
+      "title": "Mobil Temassız Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/mobil-temassiz-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "090201a82aefe6ed",
+      "title": "Mobilya ve Dekorasyon Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Evinizi yenilerken Maximum Kart ile mobilya ve dekorasyon kampanyalarından yararlanın. Anlaşmalı markalarda indirim ve MaxiPuan fırsatlarını yakalayın!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/mobilya-dekorasyon-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "53d7a61f121b5bb6",
+      "title": "Online Alışveriş ve E-Ticaret Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart ile anlaşmalı e-ticaret platformlarında online alışveriş yapın, taksitli ödeme ve MaxiPuan fırsatlarını yakalayın. Avantajlı kampanyalar sizi bekliyor!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/online-alisveris-ve-eticaret-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "a3cc598b13a9f843",
+      "title": "Otomotiv Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart ile araç bakım, lastik ve servis harcamalarında indirim ve MaxiPuan fırsatlarını keşfedin. Otomotiv kampanyalarıyla avantajlı alışveriş sizi bekliyor!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/otomotiv-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "4b110e049a6ce9f3",
+      "title": "Seyahat Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Seyahat harcamalarınızı Maximum avantajıyla yapın! Otel ve uçak bileti alışverişlerinde MaxiPuan kazanın. Fırsatları keşfedin!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/seyahat-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "1e669fccacdbe6cf",
+      "title": "Telekom Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/telekom-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "9991cc6b23b10118",
+      "title": "Vergi Ödemeleri | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Gelir, motorlu taşıt ve emlak vergisi ödemelerinizi Maximum Kart ile kolayca yapın. Taksitli ödeme ve MaxiPuan fırsatlarıyla avantajlı bir deneyim sizi bekliyor!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/vergi-odemeleri",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "e76ecd16ea574b02",
+      "title": "Yeme-İçme, Restaurant Kampanyaları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Maximum Kart ile restoran, kafe ve yeme içme harcamalarında indirim ve MaxiPuan fırsatlarını keşfedin. Şehrin en lezzetli kampanyaları sizi bekliyor!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/yeme-icme-restaurant-kampanyalari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "5249a485d3899be4",
+      "title": "İndirim Ayrıcalıkları | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Ödemelerinizi Maximum Platinium, Maximiles, Maximiles Select, MercedesCard, Maximiles Black, Privia ve Privia Black ile yapın, indirim ayrıcalıklarını yaşayın!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/indirim-ayricaliklari",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "turkcell-one-plus",
+      "title": "Turkcell One Plus",
+      "provider": "Turkcell",
+      "services": [
+        "Netflix",
+        "Amazon Prime",
+        "YouTube Premium",
+        "HBO Max",
+        "TV+",
+        "fizy"
+      ],
+      "price": "600 TL / ay",
+      "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
+      "badge": "En çok tercih edilen",
+      "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "turkcell-one-premium",
+      "title": "Turkcell One Premium",
+      "provider": "Turkcell",
+      "services": [
+        "Netflix",
+        "Amazon Prime",
+        "YouTube Premium",
+        "HBO Max",
+        "TV+",
+        "fizy"
+      ],
+      "price": "690 TL / ay",
+      "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
+      "badge": "Resmî kampanya",
+      "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "turkcell-one-star",
+      "title": "Turkcell One Star",
+      "provider": "Turkcell",
+      "services": [
+        "Netflix",
+        "Amazon Prime",
+        "YouTube Premium",
+        "HBO Max",
+        "TV+"
+      ],
+      "price": "500 TL / ay",
+      "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
+      "badge": "Resmî kampanya",
+      "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "2cb42d85f4fa6d7b",
+      "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone’dan! | Vodafone",
+      "provider": "Vodafone",
+      "services": [
+        "amazon prime",
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "3 ay Amazon Prime üyeliği Vodafone&#039;dan kampanyasının detayları için tıklayınız....",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.vodafone.com.tr/kampanyalar/amazon-prime-uyeliginiz-ilk-3-ay-vodafonedan                                 ",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "080a70490bf948d1",
+      "title": "Apple iPhone 17 Pro Max | Vodafone | Faturaya Ek Akıllı Telefonlar",
+      "provider": "Vodafone",
+      "services": [
+        "max"
+      ],
+      "price": "Koşulları incele",
+      "description": "Apple iPhone 17 Pro Max sahibi olmak, Vodafone&#x27;un faturaya ek telefon kampanyaları ve özel fırsatları ile artık çok kolay. Avantajlar için tıklayın!!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.vodafone.com.tr/faturaya-ek/apple%20-iphone-17-pro-max/p/telefonlar",
+      "endDate": null,
+      "status": "active"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {"name":"Turkcell","url":"https://www.turkcell.com.tr/kampanyalar","domain":"turkcell.com.tr"},
+  {"name":"Vodafone","url":"https://www.vodafone.com.tr/kampanyalar","domain":"vodafone.com.tr"},
+  {"name":"Türk Telekom","url":"https://bireysel.turktelekom.com.tr/mobil/kampanyalar","domain":"turktelekom.com.tr"},
+  {"name":"Bonus","url":"https://www.bonus.com.tr/kampanyalar","domain":"bonus.com.tr"},
+  {"name":"Maximum","url":"https://www.maximum.com.tr/kampanyalar","domain":"maximum.com.tr"},
+  {"name":"Worldcard","url":"https://www.worldcard.com.tr/kampanyalar","domain":"worldcard.com.tr"},
+  {"name":"Axess","url":"https://www.axess.com.tr/axess/kampanyalar","domain":"axess.com.tr"}
+]
