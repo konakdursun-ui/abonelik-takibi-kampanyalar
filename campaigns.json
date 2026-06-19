@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T13:08:08Z",
+  "updatedAt": "2026-06-19T13:09:13Z",
   "campaigns": [
     {
       "id": "782a79a23ab17951",
@@ -17,13 +17,13 @@
     },
     {
       "id": "1a8d735dc8ab4cdd",
-      "title": "Bireysel Kart Kampanyaları | Maximum",
+      "title": "Maximum Amazon Prime kampanyası",
       "provider": "Maximum",
       "services": [
         "amazon prime"
       ],
       "price": "Koşulları incele",
-      "description": "Kredi kartı kampanyaları ile harcamalarınızdan tasarruf etmek için Maximum dünyasına katılın. Maximum kredi kartı kampanya fırsatlarından yararlanın.",
+      "description": "Güncel koşullar için resmî kampanya sayfasını inceleyin.",
       "badge": "Resmî kaynak",
       "sourceUrl": "https://www.maximum.com.tr/kampanyalar/dijital-odeme-yontemleri-ile-amazon-prime-uyeligi-ayricaligi",
       "endDate": null,

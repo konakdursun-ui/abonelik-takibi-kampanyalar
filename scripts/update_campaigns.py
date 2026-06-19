@@ -101,7 +101,12 @@ def discover(source):
         matched = [service for service in SERVICES if service in searchable]
         if not matched or not any(word in searchable for word in OFFER_WORDS):
             continue
-        end_date = extract_end_date(searchable)
+        visible_summary = (title + " " + description).lower()
+        if not any(service in visible_summary for service in matched):
+            service_name = {"hbo max": "HBO Max", "amazon prime": "Amazon Prime", "prime video": "Prime Video", "youtube premium": "YouTube Premium"}.get(matched[0], matched[0].title())
+            title = f'{source["name"]} {service_name} kampanyası'
+            description = "Güncel koşullar için resmî kampanya sayfasını inceleyin."
+        end_date = extract_end_date(clean(html[:200000]))
         expired = end_date is not None and end_date < datetime.now(timezone.utc).date().isoformat()
         campaign_id = hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
         results.append({
