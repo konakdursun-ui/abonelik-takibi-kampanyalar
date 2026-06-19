@@ -10,7 +10,7 @@ from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
-SERVICES = ("netflix", "spotify", "amazon prime", "prime video", "disney+", "youtube premium", "max", "exxen", "tabii")
+SERVICES = ("netflix", "spotify", "amazon prime", "prime video", "disney+", "youtube premium", "hbo max", "exxen", "tabii")
 OFFER_WORDS = ("kampanya", "indirim", "hediye", "iade", "ücretsiz", "bedava", "%")
 DATE_RE = re.compile(r"\b([0-3]?\d)[./-]([01]?\d)[./-](20\d{2})\b")
 
