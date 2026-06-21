@@ -6,4 +6,8 @@
   {"name":"Maximum","url":"https://www.maximum.com.tr/kampanyalar","domain":"maximum.com.tr"},
   {"name":"Worldcard","url":"https://www.worldcard.com.tr/kampanyalar","domain":"worldcard.com.tr"},
   {"name":"Axess","url":"https://www.axess.com.tr/axess/kampanyalar","domain":"axess.com.tr"}
+  ,{"name":"Bankkart","url":"https://www.bankkart.com.tr/kampanyalar","domain":"bankkart.com.tr"}
+  ,{"name":"Digiturk","url":"https://www.digiturk.com.tr/kampanyalar","domain":"digiturk.com.tr"}
+  ,{"name":"TOD","url":"https://www.todtv.com.tr/","domain":"todtv.com.tr"}
+  ,{"name":"GAİN","url":"https://www.gain.tv/","domain":"gain.tv"}
 ]

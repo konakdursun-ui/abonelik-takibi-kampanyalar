@@ -10,7 +10,11 @@ from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
-SERVICES = ("netflix", "spotify", "amazon prime", "prime video", "disney+", "youtube premium", "hbo max", "exxen", "tabii")
+SERVICES = (
+    "netflix", "spotify", "amazon prime", "prime video", "disney+",
+    "youtube premium", "hbo max", "exxen", "tabii", "gain", "gaın",
+    "tod", "bein connect", "beIN connect", "digiturk"
+)
 OFFER_WORDS = ("kampanya", "indirim", "hediye", "iade", "ücretsiz", "bedava", "%")
 DATE_RE = re.compile(r"\b([0-3]?\d)[./-]([01]?\d)[./-](20\d{2})\b")
 
@@ -127,7 +131,10 @@ def discover(source):
 def main():
     sources = json.loads((ROOT / "sources.json").read_text(encoding="utf-8"))
     current = json.loads((ROOT / "campaigns.json").read_text(encoding="utf-8"))
-    campaigns = {item["id"]: item for item in current.get("campaigns", []) if item["id"].startswith("turkcell-one-")}
+    campaigns = {
+        item["id"]: item for item in current.get("campaigns", [])
+        if item["id"].startswith("turkcell-one-") or item.get("curation") == "verified"
+    }
     for source in sources:
         try:
             for item in discover(source):
