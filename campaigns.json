@@ -1,37 +1,14 @@
 {
-  "updatedAt": "2026-06-21T12:00:00Z",
+  "updatedAt": "2026-06-22T09:23:32Z",
   "campaigns": [
-    {
-      "id": "verified-maximum-amazon-prime-2026",
-      "title": "İş Bankası kartlarına 6–12 ay Amazon Prime",
-      "provider": "Maximum",
-      "services": ["Amazon Prime"],
-      "price": "6 veya 12 ay ücretsiz",
-      "description": "Maximum ve Bankamatik Kart sahiplerine 6 ay; Maximiles, Maximiles Select, Maximiles Black ve Privia Black sahiplerine 12 ay Amazon Prime üyeliği.",
-      "badge": "30 Nisan 2027'ye kadar",
-      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/12-aya-varan-amazon-prime-uyeligi",
-      "endDate": "2027-04-30",
-      "status": "active",
-      "curation": "verified"
-    },
-    {
-      "id": "verified-bankkart-bein-connect-2026",
-      "title": "Bankkart ile beIN CONNECT Yıldız Dolu",
-      "provider": "Bankkart",
-      "services": ["beIN CONNECT", "TOD"],
-      "price": "359 TL / ay + 1.000 TL Bankkart Lira",
-      "description": "Yeni üyeliklerde aylık 499 TL yerine 359 TL; ayrıca 1.000 TL Bankkart Lira. Yıllık toplam 4.308 TL, 12 aya kadar taksit imkânı.",
-      "badge": "3 Ağustos 2026'ya kadar",
-      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-paket-aylik-359-tl-ve-1000-tl-bankkart-lira",
-      "endDate": "2026-08-03",
-      "status": "active",
-      "curation": "verified"
-    },
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
       "title": "Bankkart Genç'e özel beIN CONNECT",
       "provider": "Bankkart",
-      "services": ["beIN CONNECT", "TOD"],
+      "services": [
+        "beIN CONNECT",
+        "TOD"
+      ],
       "price": "99 TL / ay + 500 TL Bankkart Lira",
       "description": "Öğrenci Bankkart Genç kredi kartı sahiplerine Yıldız Dolu paketi aylık 99 TL ve 500 TL Bankkart Lira. Yıllık toplam 1.188 TL.",
       "badge": "4 Temmuz 2026'ya kadar",
@@ -41,35 +18,76 @@
       "curation": "verified"
     },
     {
-      "id": "verified-vodafone-amazon-prime",
-      "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone'dan",
-      "provider": "Vodafone",
-      "services": ["Amazon Prime"],
-      "price": "İlk 3 ay hediye",
-      "description": "Uygun Vodafone müşterilerine ilk 3 ay Amazon Prime üyelik ücreti Vodafone'dan. Güncel uygunluk koşullarını resmî sayfadan inceleyin.",
-      "badge": "Resmî kampanya",
-      "sourceUrl": "https://www.vodafone.com.tr/kampanyalar/amazon-prime-uyeliginiz-ilk-3-ay-vodafonedan",
-      "endDate": null,
+      "id": "verified-bankkart-bein-connect-2026",
+      "title": "Bankkart ile beIN CONNECT Yıldız Dolu",
+      "provider": "Bankkart",
+      "services": [
+        "beIN CONNECT",
+        "TOD"
+      ],
+      "price": "359 TL / ay + 1.000 TL Bankkart Lira",
+      "description": "Yeni üyeliklerde aylık 499 TL yerine 359 TL; ayrıca 1.000 TL Bankkart Lira. Yıllık toplam 4.308 TL, 12 aya kadar taksit imkânı.",
+      "badge": "3 Ağustos 2026'ya kadar",
+      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-paket-aylik-359-tl-ve-1000-tl-bankkart-lira",
+      "endDate": "2026-08-03",
       "status": "active",
       "curation": "verified"
     },
     {
-      "id": "turkcell-one-star",
-      "title": "Turkcell One Star",
-      "provider": "Turkcell",
-      "services": ["Netflix", "Amazon Prime", "YouTube Premium", "HBO Max", "TV+"],
-      "price": "500 TL / ay",
-      "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
-      "badge": "Resmî kampanya",
-      "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
+      "id": "782a79a23ab17951",
+      "title": "Amazon Prime üyeliğiniz Maximiles Black’ten! | Maximum",
+      "provider": "Maximum",
+      "services": [
+        "amazon prime"
+      ],
+      "price": "Koşulları incele",
+      "description": "",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/amazon-prime-uyeliginiz-maximiles-blackten",
       "endDate": null,
       "status": "active"
+    },
+    {
+      "id": "1a8d735dc8ab4cdd",
+      "title": "Maximum Amazon Prime kampanyası",
+      "provider": "Maximum",
+      "services": [
+        "amazon prime"
+      ],
+      "price": "Koşulları incele",
+      "description": "Güncel koşullar için resmî kampanya sayfasını inceleyin.",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/dijital-odeme-yontemleri-ile-amazon-prime-uyeligi-ayricaligi",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "verified-maximum-amazon-prime-2026",
+      "title": "İş Bankası kartlarına 6–12 ay Amazon Prime",
+      "provider": "Maximum",
+      "services": [
+        "Amazon Prime"
+      ],
+      "price": "6 veya 12 ay ücretsiz",
+      "description": "Maximum ve Bankamatik Kart sahiplerine 6 ay; Maximiles, Maximiles Select, Maximiles Black ve Privia Black sahiplerine 12 ay Amazon Prime üyeliği.",
+      "badge": "30 Nisan 2027'ye kadar",
+      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/12-aya-varan-amazon-prime-uyeligi",
+      "endDate": "2027-04-30",
+      "status": "active",
+      "curation": "verified"
     },
     {
       "id": "turkcell-one-plus",
       "title": "Turkcell One Plus",
       "provider": "Turkcell",
-      "services": ["Netflix", "Amazon Prime", "YouTube Premium", "HBO Max", "TV+", "fizy"],
+      "services": [
+        "Netflix",
+        "Amazon Prime",
+        "YouTube Premium",
+        "HBO Max",
+        "TV+",
+        "fizy"
+      ],
       "price": "600 TL / ay",
       "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
       "badge": "En çok tercih edilen",
@@ -81,11 +99,65 @@
       "id": "turkcell-one-premium",
       "title": "Turkcell One Premium",
       "provider": "Turkcell",
-      "services": ["Netflix", "Amazon Prime", "YouTube Premium", "HBO Max", "TV+", "fizy"],
+      "services": [
+        "Netflix",
+        "Amazon Prime",
+        "YouTube Premium",
+        "HBO Max",
+        "TV+",
+        "fizy"
+      ],
       "price": "690 TL / ay",
       "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
       "badge": "Resmî kampanya",
       "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "turkcell-one-star",
+      "title": "Turkcell One Star",
+      "provider": "Turkcell",
+      "services": [
+        "Netflix",
+        "Amazon Prime",
+        "YouTube Premium",
+        "HBO Max",
+        "TV+"
+      ],
+      "price": "500 TL / ay",
+      "description": "Dijital servis paketi ve 12 ay sabit fiyat garantisi.",
+      "badge": "Resmî kampanya",
+      "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
+      "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "verified-vodafone-amazon-prime",
+      "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone'dan",
+      "provider": "Vodafone",
+      "services": [
+        "Amazon Prime"
+      ],
+      "price": "İlk 3 ay hediye",
+      "description": "Uygun Vodafone müşterilerine ilk 3 ay Amazon Prime üyelik ücreti Vodafone'dan. Güncel uygunluk koşullarını resmî sayfadan inceleyin.",
+      "badge": "Resmî kampanya",
+      "sourceUrl": "https://www.vodafone.com.tr/kampanyalar/amazon-prime-uyeliginiz-ilk-3-ay-vodafonedan",
+      "endDate": null,
+      "status": "active",
+      "curation": "verified"
+    },
+    {
+      "id": "2cb42d85f4fa6d7b",
+      "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone’dan! | Vodafone",
+      "provider": "Vodafone",
+      "services": [
+        "amazon prime"
+      ],
+      "price": "Koşulları incele",
+      "description": "3 ay Amazon Prime üyeliği Vodafone&#039;dan kampanyasının detayları için tıklayınız....",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.vodafone.com.tr/kampanyalar/amazon-prime-uyeliginiz-ilk-3-ay-vodafonedan                                 ",
       "endDate": null,
       "status": "active"
     }
