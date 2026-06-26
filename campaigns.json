@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T06:57:59Z",
+  "updatedAt": "2026-06-26T07:03:57Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -174,20 +174,6 @@
       "endDate": null,
       "status": "active",
       "curation": "verified"
-    },
-    {
-      "id": "2cb42d85f4fa6d7b",
-      "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone’dan! | Vodafone",
-      "provider": "Vodafone",
-      "services": [
-        "amazon prime"
-      ],
-      "price": "Koşulları incele",
-      "description": "3 ay Amazon Prime üyeliği Vodafone&#039;dan kampanyasının detayları için tıklayınız....",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.vodafone.com.tr/kampanyalar/amazon-prime-uyeliginiz-ilk-3-ay-vodafonedan                                 ",
-      "endDate": null,
-      "status": "active"
     }
   ]
 }
