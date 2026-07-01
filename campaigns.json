@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T07:04:29Z",
+  "updatedAt": "2026-07-01T07:21:28Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -32,34 +32,6 @@
       "endDate": "2026-08-03",
       "status": "active",
       "curation": "verified"
-    },
-    {
-      "id": "c3bd21ebe58b797e",
-      "title": "Digiturk Yıldız Dolu Bankkart Gençlilere Ayda 99 TL ve 500 TL Bankkart Lira | Diğer Kampanyalar | Kampanyalar | Bankkart",
-      "provider": "Bankkart",
-      "services": [
-        "digiturk"
-      ],
-      "price": "Koşulları incele",
-      "description": "Digiturk Yıldız Dolu Paketi Bankkart Gençlilere Aylık 99 TL ve 500 TL Bankkart Lira",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-bankkart-genclilere-ayda-99-tl-ve-500-tl-bankkart-lira",
-      "endDate": null,
-      "status": "active"
-    },
-    {
-      "id": "a43971546210b920",
-      "title": "Digiturk Yıldız Dolu Paket Aylık 359 TL ve 1.000 TL Bankkart Lira | Diğer Kampanyalar | Kampanyalar | Bankkart",
-      "provider": "Bankkart",
-      "services": [
-        "digiturk"
-      ],
-      "price": "Koşulları incele",
-      "description": "Digiturk Yıldız Dolu Paketi Yeni Üyeliklere Aylık 359 TL ve 1.000 TL Bankkart Lira",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-paket-aylik-359-tl-ve-1000-tl-bankkart-lira",
-      "endDate": null,
-      "status": "active"
     },
     {
       "id": "782a79a23ab17951",
