@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T06:56:45Z",
+  "updatedAt": "2026-07-08T06:08:31Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -48,16 +48,16 @@
       "status": "active"
     },
     {
-      "id": "b1703afafd6adc2f",
-      "title": "Digiturk Yıldız Dolu Paket Aylık 359 TL ve 1.000 TL Jest Lira | Diğer Kampanyalar | Kampanyalar | Bankkart",
+      "id": "81f56d30e7e93763",
+      "title": "Digiturk Yıldız Dolu Paketinize 1.000 TL Jest Lira | Diğer Kampanyalar | Kampanyalar | Bankkart",
       "provider": "Bankkart",
       "services": [
         "digiturk"
       ],
       "price": "Koşulları incele",
-      "description": "Digiturk Yıldız Dolu Paketi Yeni Üyeliklere Aylık 359 TL ve 1.000 TL Jest Lira",
+      "description": "Digiturk Yıldız Dolu Paketi Yeni Üyeliklere 1.000 TL Jest Lira",
       "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-paket-aylik-359-tl-ve-1000-tl-jest-lira",
+      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-paketinize-1000-tl-jest-lira",
       "endDate": null,
       "status": "active"
     },
