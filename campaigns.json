@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T06:23:51Z",
+  "updatedAt": "2026-08-01T06:09:25Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -32,6 +32,20 @@
       "endDate": "2026-08-03",
       "status": "active",
       "curation": "verified"
+    },
+    {
+      "id": "9c5fe8f51b5b6f30",
+      "title": "Digiturk Yıldız Dolu Bankkart Gençlilere Ayda 99 TL ve 500 TL Jest Lira | Diğer Kampanyalar | Kampanyalar | Bankkart",
+      "provider": "Bankkart",
+      "services": [
+        "digiturk"
+      ],
+      "price": "Koşulları incele",
+      "description": "Digiturk Yıldız Dolu Paketi Bankkart Gençlilere Aylık 99 TL ve 500 TL Jest Lira",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-bankkart-genclilere-ayda-99-tl-ve-500-tl-jest-lira",
+      "endDate": null,
+      "status": "active"
     },
     {
       "id": "81f56d30e7e93763",
