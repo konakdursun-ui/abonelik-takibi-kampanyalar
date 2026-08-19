@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:58:52Z",
+  "updatedAt": "2026-08-19T03:58:40Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -58,34 +58,6 @@
       "description": "Digiturk Yıldız Dolu Paketi Yeni Üyeliklere 1.000 TL Jest Lira",
       "badge": "Resmî kaynak",
       "sourceUrl": "https://www.bankkart.com.tr/kampanyalar/diger-kampanyalar/digiturk-yildiz-dolu-paketinize-1000-tl-jest-lira",
-      "endDate": null,
-      "status": "active"
-    },
-    {
-      "id": "782a79a23ab17951",
-      "title": "Amazon Prime üyeliğiniz Maximiles Black’ten! | Maximum",
-      "provider": "Maximum",
-      "services": [
-        "amazon prime"
-      ],
-      "price": "Koşulları incele",
-      "description": "",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/amazon-prime-uyeliginiz-maximiles-blackten",
-      "endDate": null,
-      "status": "active"
-    },
-    {
-      "id": "1a8d735dc8ab4cdd",
-      "title": "Maximum Amazon Prime kampanyası",
-      "provider": "Maximum",
-      "services": [
-        "amazon prime"
-      ],
-      "price": "Koşulları incele",
-      "description": "Güncel koşullar için resmî kampanya sayfasını inceleyin.",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/dijital-odeme-yontemleri-ile-amazon-prime-uyeligi-ayricaligi",
       "endDate": null,
       "status": "active"
     },
