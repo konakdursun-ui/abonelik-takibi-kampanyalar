@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:43:10Z",
+  "updatedAt": "2026-10-01T10:08:41Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -44,20 +44,6 @@
       "description": "",
       "badge": "Resmî kaynak",
       "sourceUrl": "https://www.maximum.com.tr/kampanyalar/amazon-prime-uyeliginiz-maximiles-blackten",
-      "endDate": null,
-      "status": "active"
-    },
-    {
-      "id": "1a8d735dc8ab4cdd",
-      "title": "Maximum Amazon Prime kampanyası",
-      "provider": "Maximum",
-      "services": [
-        "amazon prime"
-      ],
-      "price": "Koşulları incele",
-      "description": "Güncel koşullar için resmî kampanya sayfasını inceleyin.",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.maximum.com.tr/kampanyalar/dijital-odeme-yontemleri-ile-amazon-prime-uyeligi-ayricaligi",
       "endDate": null,
       "status": "active"
     },
