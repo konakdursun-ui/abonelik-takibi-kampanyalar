@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:08:56Z",
+  "updatedAt": "2026-10-25T08:25:48Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -130,6 +130,20 @@
       "badge": "Resmî kampanya",
       "sourceUrl": "https://www.turkcell.com.tr/servisler/turkcell-one",
       "endDate": null,
+      "status": "active"
+    },
+    {
+      "id": "bb20d8a8078166ca",
+      "title": "İncele",
+      "provider": "Türk Telekom",
+      "services": [
+        "spotify"
+      ],
+      "price": "Koşulları incele",
+      "description": "Spotify Premium Bireysel üyeliğini Türk Telekom Mobil Ödeme ile faturana yansıtarak veya TL bakiyenden kullanarak başlat, haftalık 2 GB hediye internet kazan!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://bireysel.turktelekom.com.tr/mobil/kampanyalar/spotify-premium-uyeligini-turk-telekom-mobil-odeme-ile-simdi-ilk-kez-ode-haftalik-2-gb-internet-kazan",
+      "endDate": "2026-12-15",
       "status": "active"
     },
     {
