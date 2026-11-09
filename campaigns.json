@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:23:15Z",
+  "updatedAt": "2026-11-09T11:31:41Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -133,6 +133,20 @@
       "status": "active"
     },
     {
+      "id": "bb20d8a8078166ca",
+      "title": "İncele",
+      "provider": "Türk Telekom",
+      "services": [
+        "spotify"
+      ],
+      "price": "Koşulları incele",
+      "description": "Spotify Premium Bireysel üyeliğini Türk Telekom Mobil Ödeme ile faturana yansıtarak veya TL bakiyenden kullanarak başlat, haftalık 2 GB hediye internet kazan!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://bireysel.turktelekom.com.tr/mobil/kampanyalar/spotify-premium-uyeligini-turk-telekom-mobil-odeme-ile-simdi-ilk-kez-ode-haftalik-2-gb-internet-kazan",
+      "endDate": "2026-12-15",
+      "status": "active"
+    },
+    {
       "id": "verified-vodafone-amazon-prime",
       "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone'dan",
       "provider": "Vodafone",
@@ -146,20 +160,6 @@
       "endDate": null,
       "status": "active",
       "curation": "verified"
-    },
-    {
-      "id": "2cb42d85f4fa6d7b",
-      "title": "Amazon Prime üyeliğiniz ilk 3 ay Vodafone’dan! | Vodafone",
-      "provider": "Vodafone",
-      "services": [
-        "amazon prime"
-      ],
-      "price": "Koşulları incele",
-      "description": "3 ay Amazon Prime üyeliği Vodafone&#039;dan kampanyasının detayları için tıklayınız....",
-      "badge": "Resmî kaynak",
-      "sourceUrl": "https://www.vodafone.com.tr/kampanyalar/amazon-prime-uyeliginiz-ilk-3-ay-vodafonedan                                 ",
-      "endDate": null,
-      "status": "active"
     }
   ]
 }
