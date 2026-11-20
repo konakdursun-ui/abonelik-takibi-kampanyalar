@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:39:47Z",
+  "updatedAt": "2026-11-20T11:39:50Z",
   "campaigns": [
     {
       "id": "verified-bankkart-genc-bein-connect-2026",
@@ -144,6 +144,20 @@
       "badge": "Resmî kaynak",
       "sourceUrl": "https://bireysel.turktelekom.com.tr/mobil/kampanyalar/spotify-premium-uyeligini-turk-telekom-mobil-odeme-ile-simdi-ilk-kez-ode-haftalik-2-gb-internet-kazan",
       "endDate": "2026-12-15",
+      "status": "active"
+    },
+    {
+      "id": "114976e7b2ffeca5",
+      "title": "İncele",
+      "provider": "Türk Telekom",
+      "services": [
+        "netflix"
+      ],
+      "price": "Koşulları incele",
+      "description": "Netflix Prime Tarifelerine gelenler 12 ay geçerli hediye Tivibu GO’nun tadını doya doya çıkarıyor!",
+      "badge": "Resmî kaynak",
+      "sourceUrl": "https://bireysel.turktelekom.com.tr/mobil/kampanyalar/prime-netflix-tarifeleri-tivibu-go-kampanyasi",
+      "endDate": "2027-12-31",
       "status": "active"
     },
     {
